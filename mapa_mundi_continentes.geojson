@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "name": "Mapa Mundi - Continentes",
+  "features": [
+    {"type":"Feature","properties":{"id":1,"name":"América do Norte","continente":"América do Norte"},"geometry":{"type":"Polygon","coordinates":[[[-168,15],[-160,55],[-130,72],[-95,72],[-60,55],[-52,25],[-82,8],[-105,15],[-125,25],[-168,15]]]}},
+    {"type":"Feature","properties":{"id":2,"name":"América do Sul","continente":"América do Sul"},"geometry":{"type":"Polygon","coordinates":[[[-82,12],[-68,10],[-45,-5],[-35,-25],[-50,-55],[-72,-55],[-81,-20],[-82,12]]]}},
+    {"type":"Feature","properties":{"id":3,"name":"Europa","continente":"Europa"},"geometry":{"type":"Polygon","coordinates":[[[-11,35],[0,58],[25,70],[45,60],[40,40],[20,35],[-11,35]]]}},
+    {"type":"Feature","properties":{"id":4,"name":"África","continente":"África"},"geometry":{"type":"Polygon","coordinates":[[[-18,35],[12,37],[35,30],[50,10],[42,-35],[20,-35],[5,-30],[-15,-5],[-18,35]]]}},
+    {"type":"Feature","properties":{"id":5,"name":"Ásia","continente":"Ásia"},"geometry":{"type":"Polygon","coordinates":[[[35,5],[45,55],[80,72],[130,60],[170,55],[150,10],[105,-10],[75,5],[55,-5],[35,5]]]}},
+    {"type":"Feature","properties":{"id":6,"name":"Oceania","continente":"Oceania"},"geometry":{"type":"Polygon","coordinates":[[[110,-10],[155,-10],[180,-25],[165,-45],[135,-45],[112,-30],[110,-10]]]}},
+    {"type":"Feature","properties":{"id":7,"name":"Antártida","continente":"Antártida"},"geometry":{"type":"Polygon","coordinates":[[[-180,-60],[-120,-72],[-60,-65],[0,-75],[60,-65],[120,-72],[180,-60],[180,-85],[-180,-85],[-180,-60]]]}}
+  ]
+}
